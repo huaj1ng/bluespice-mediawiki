@@ -155,7 +155,8 @@
 			"Emabarto01",
 			"JorgeElias2302",
 			"9Aaron3",
-			"Giorgx12"
+			"Giorgx12",
+			"GseSro"
 		]
 	},
 	"sunday": "domenica",
@@ -2144,6 +2145,7 @@
 	"apisandbox-request-php-label": "Richiesta matrice PHP:",
 	"apisandbox-request-time": "Tempo richiesto: {{PLURAL:$1|$1 ms}}",
 	"apisandbox-request-post": "Questa richiesta deve essere inviata utilizzando il metodo HTTP POST.",
+	"apisandbox-request-post2": "A causa della dimensione del payload, questa richiesta è stata inviata utilizzando il metodo HTTP POST.",
 	"apisandbox-request-formdata": "Questa richiesta deve essere inviata come caricamento di file (ad esempio, utilizzando <code>multipart/form-data</code>).",
 	"apisandbox-results-fixtoken": "Correggi token e reinvia",
 	"apisandbox-results-fixtoken-fail": "Impossibile recuperare il token \"$1\".",
