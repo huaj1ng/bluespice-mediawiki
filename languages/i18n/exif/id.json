@@ -12,7 +12,9 @@
 			"Rachmat04",
 			"Rex",
 			"Veracious",
-			"Penyuwangi"
+			"Penyuwangi",
+			"HyperAnd",
+			"Bayahiu"
 		]
 	},
 	"exif-imagewidth": "Lebar",
@@ -98,7 +100,7 @@
 	"exif-devicesettingdescription": "Deskripsi pengaturan alat",
 	"exif-subjectdistancerange": "Jarak subjek",
 	"exif-imageuniqueid": "ID unik gambar",
-	"exif-gpsversionid": "Versi tag GPS",
+	"exif-gpsversionid": "Versi tanda GPS",
 	"exif-gpslatituderef": "Lintang Utara atau Selatan",
 	"exif-gpslatitude": "Lintang",
 	"exif-gpslongituderef": "Bujur Timur atau Barat",
@@ -406,6 +408,11 @@
 	"exif-exposurelockused-true": "Ya",
 	"exif-exposurelockused-false": "Tidak",
 	"exif-poseheadingdegrees": "Kepala pose (derajat)",
+	"exif-posepitchdegrees": "Anggul (derajat)",
+	"exif-poserolldegrees": "Guling (derajat)",
+	"exif-initialviewheadingdegrees": "Arah pandangan awal (derajat)",
+	"exif-initialviewpitchdegrees": "Anggul tampilan awal (derajat)",
+	"exif-initialviewrolldegrees": "Guling tampilan awal (derajat)",
 	"exif-initialhorizontalfovdegrees": "Ruang pandang awal (derajat horizontal)",
 	"exif-initialverticalfovdegrees": "Ruang pandang awal (derajat vertikal)",
 	"exif-sourcephotoscount": "Banyak foto sumber",
